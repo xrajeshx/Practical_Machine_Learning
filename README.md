@@ -1,4 +1,4 @@
-# practicalML
+# Practical Machine Learning
 
 Instructions
 
